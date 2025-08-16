@@ -1,16 +1,14 @@
-# meal_app
+# Meal App
 
-A new Flutter project.
+This project was built by following the instructions of [Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/). I added my own notes to understand concepts better.
 
-## Getting Started
+# Course Source
 
-This project is a starting point for a Flutter application.
+[Flutter & Dart - The Complete Guide](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
-A few resources to get you started if this is your first Flutter project:
+# How to Run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repo:
+```bash
+git clone https://github.com/kei-2k3/meal-app.git
+cd meal-app
