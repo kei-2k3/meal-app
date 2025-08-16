@@ -57,7 +57,6 @@ class _TabsScreenState extends State<TabsScreen> {
   void _setScreen(String identifier) async {
     Navigator.of(context).pop();
     if (identifier == 'filters') {
-      print(_selectedFilters);
       final result = await Navigator.of(context).push<Map<Filter, bool>>(
         MaterialPageRoute(
           builder: (context) => FiltersScreen(currentFilters: _selectedFilters),
